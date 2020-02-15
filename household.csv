@@ -1,0 +1,15 @@
+source,target,value,category
+partner 1,movies,5,fun
+partner 1,restaurants,25,fun
+partner 1,rent,30,necessities
+partner 1,groceries,10,necessities
+partner 1,other,10,necessities
+partner 1,retirement,15,saving
+partner 1,vacation,5,saving
+partner 2,movies,10,fun
+partner 2,restaurants,20,fun
+partner 2,rent,30,necessities
+partner 2,groceries,10,necessities
+partner 2,other,15,necessities
+partner 2,retirement,15,saving
+partner 2,house,10,saving
